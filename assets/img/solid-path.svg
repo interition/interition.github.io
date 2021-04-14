@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 264 280"
+   style="enable-background:new 0 0 264 280;"
+   xml:space="preserve"
+   sodipodi:docname="solid-path.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"><metadata
+   id="metadata191"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs189"><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="83.047619 : -29.142857 : 1"
+   inkscape:vp_y="0 : -1000 : 0"
+   inkscape:vp_z="347.04762 : -29.142857 : 1"
+   inkscape:persp3d-origin="215.04762 : 17.523813 : 1"
+   id="perspective237" /><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 140 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="264 : 140 : 1"
+   inkscape:persp3d-origin="132 : 93.333333 : 1"
+   id="perspective193" />
+	
+
+		
+	
+			
+			
+			<defs
+   id="defs35">
+				<filter
+   height="280"
+   width="265"
+   y="0"
+   x="-1"
+   filterUnits="userSpaceOnUse"
+   id="Adobe_OpacityMaskFilter_1_">
+					<feColorMatrix
+   id="feColorMatrix32"
+   values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+   type="matrix" />
+				</filter>
+			</defs>
+			<mask
+   id="mask-4_1_"
+   height="280"
+   width="265"
+   y="0"
+   x="-1"
+   maskUnits="userSpaceOnUse">
+				<g
+   id="g38"
+   class="st5">
+					<path
+   d="m 12,160 c 0,66.3 53.7,120 120,120 66.3,0 120,-53.7 120,-120 h 12 V 0 H 0 v 160 z"
+   class="st2"
+   id="path-3_1_" />
+				</g>
+			</mask>
+			
+		
+				
+				<defs
+   id="defs20">
+					<filter
+   id="Adobe_OpacityMaskFilter"
+   filterUnits="userSpaceOnUse"
+   x="0"
+   y="0"
+   width="240"
+   height="240">
+						<feColorMatrix
+   type="matrix"
+   values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+   id="feColorMatrix17" />
+					</filter>
+				</defs>
+				<mask
+   maskUnits="userSpaceOnUse"
+   x="0"
+   y="0"
+   width="240"
+   height="240"
+   id="mask-2_1_">
+					<g
+   class="st1"
+   id="g23">
+						<circle
+   id="path-1_1_"
+   class="st2"
+   cx="120"
+   cy="120"
+   r="120" />
+					</g>
+				</mask>
+				
+			</defs><sodipodi:namedview
+   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1981"
+   inkscape:window-height="1190"
+   id="namedview187"
+   showgrid="false"
+   inkscape:zoom="2.625"
+   inkscape:cx="58.666667"
+   inkscape:cy="140"
+   inkscape:window-x="112"
+   inkscape:window-y="31"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style10">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#E6E6E6;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{mask:url(#mask-2_1_);}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#2C3E50;}
+	.st5{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st6{mask:url(#mask-4_1_);}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#D0C6AC;}
+	.st8{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st9{mask:url(#mask-6_1_);}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#EDB98A;}
+	.st11{filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st12{mask:url(#mask-6_2_);fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.1;}
+	.st13{filter:url(#Adobe_OpacityMaskFilter_4_);}
+	.st14{mask:url(#react-mask-952_1_);}
+	.st15{filter:url(#Adobe_OpacityMaskFilter_5_);}
+	.st16{opacity:0.6;mask:url(#react-mask-952_2_);}
+	.st17{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.16;}
+	.st18{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.7;}
+	.st19{filter:url(#Adobe_OpacityMaskFilter_6_);}
+	.st20{mask:url(#react-mask-934_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st21{filter:url(#Adobe_OpacityMaskFilter_7_);}
+	.st22{mask:url(#react-mask-934_2_);}
+	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:#FF4F6D;}
+	.st24{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.6;}
+	.st25{filter:url(#Adobe_OpacityMaskFilter_8_);}
+	.st26{mask:url(#react-mask-925_1_);}
+	.st27{fill-rule:evenodd;clip-rule:evenodd;fill:#28354B;}
+	.st28{filter:url(#Adobe_OpacityMaskFilter_9_);}
+	.st29{mask:url(#react-mask-924_1_);}
+	.st30{fill-rule:evenodd;clip-rule:evenodd;fill:#4A312C;}
+</style>
+<desc
+   id="desc12">Created with getavataaars.com</desc>
+<path
+   sodipodi:type="star"
+   style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:0"
+   id="path241"
+   sodipodi:sides="6"
+   sodipodi:cx="131.80952"
+   sodipodi:cy="162.66667"
+   sodipodi:r1="92.253426"
+   sodipodi:r2="79.893806"
+   sodipodi:arg1="0.83798123"
+   sodipodi:arg2="1.36158"
+   inkscape:flatsided="true"
+   inkscape:rounded="0"
+   inkscape:randomized="0"
+   d="M 193.52381,231.2381 103.28207,250.39853 41.567779,181.8271 70.095237,94.09524 160.33698,74.934815 222.05127,143.50625 Z"
+   transform="matrix(1.3961518,0.29572754,-0.29183679,1.3958535,-2.7444757,-131.04782)" /><g
+   id="Mask"
+   transform="translate(-188.5714,6.4761576)">
+			</g>
+</svg>
